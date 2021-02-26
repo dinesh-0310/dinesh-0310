@@ -25,8 +25,8 @@ Here are some ideas to get you started:
   
  ### Skills
 -  Languages - **HTML, CSS and JavaScript**
--  FrameWork/Libraries - **React.js, Express.js, MaterialUI**
--  Databases/Backend - **MongoDB, Node.js**
+-  FrameWork/Libraries - **React Js, Express Js, MaterialUI**
+-  Databases/Backend - **MongoDB, Node Js**
 -  Others - **Git, VSCode, postman**
 
 #### Github Stats:
