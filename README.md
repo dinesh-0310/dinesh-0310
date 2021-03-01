@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning MERN stack Development at [masai school](https://www.masaischool.com/).
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dinesh.chaudhari0310@gmail.com;
-- portfolio: https://dinesh-0310.github.io/portfolio/
-- 😄 Pronouns: He/His
   
  ### Skills
 -  Languages - **HTML, CSS and JavaScript**
