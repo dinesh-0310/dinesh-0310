@@ -29,4 +29,3 @@ Here are some ideas to get you started:
 <div style = "display:flex; justify-content: space-between" >
   <img src = "https://github-readme-stats.vercel.app/api?username=dinesh-0310&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
 </div>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=dinesh-0310.dinesh-0310)
